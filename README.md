@@ -11,6 +11,9 @@ When looking at theater campaigns based on their launch date, we can see a highe
 
 Another angle we took is by compiling the campaign goals and separating them starting at less than $1,000 and increase them $4,999 at a time and finish at $50,000 or more. We can see at what price most campaigns succeeded and failed. Our line graph shown in Figure 2 (Outcomes Based on Goal) has the percentage of successful and failed goals on the y-axis and the monetary value on the x-axis. The most successful campaigns had a goal within $5,000. The graph can be miss leading though. There are outliers within the higher donations such as $35,000 to $44,999. While 67% are successful, we only have nine projects to analyze. Within the value of less than $1,000 to $4,999 we have a total of 720 projects. From this we can analyze that most projects will succeed within the value range of less than $1,000 to $4,999. 
 
+### Figure 2
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99099706/156938543-158fe0dd-0b79-412e-bd32-e4577a2a1952.png)
+
 ## Conclusion
 In conclusion our analysis shows that Theater campaigns that have their launch date in May and continue through July, will have a greater success rate from their campaigns. Not only is the launch date a significant factor with success, so are the campaigns goals amount. Campaigns that set their goal within at less than $1,000 to $4,999, had a 73% success rate at meeting their goal. 
 ![image](https://user-images.githubusercontent.com/99099706/156938382-27acaa57-3beb-48ce-a958-ac88eee43267.png)
